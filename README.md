@@ -49,4 +49,5 @@ This project uses the Adobe FiveK Dataset, which provides RAW images and corresp
   pip install -r requirements.txt
 
 # 📊 Example Result
+![Alt Text](result/result.png)
 
