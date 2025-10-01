@@ -15,7 +15,7 @@ Custom U-Net and Attention U-Net architectures for image-to-image translation.
 
 - Dropout regularization.
 
-- Early Stopping with patience = 5.
+- Early Stopping with patience.
 
 ## Visualization: 
 - Compare RAW Input, Model Prediction, and Ground Truth during training.
