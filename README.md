@@ -44,8 +44,8 @@ This project uses the Adobe FiveK Dataset [Dataset Link](https://www.kaggle.com/
 # ⚙️ Installation
 - Clone the repo and install dependencies:
   ```bash
-  git clone https://github.com/yourusername/color-correction.git
-  cd color-correction
+  git clone https://github.com/HabibaMAtiia/Image-Color-Enhancement.git
+  cd Image-Color-Enhancement
   pip install -r requirements.txt
 
 # 📊 Example Result
