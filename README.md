@@ -22,8 +22,7 @@ Custom U-Net and Attention U-Net architectures for image-to-image translation.
 
 # 📂 Dataset
 
-This project uses the Adobe FiveK Dataset [Dataset Link](https://www.kaggle.com/datasets/ahmedmohmedbalta/mitabovefivek)
-, which provides RAW images and corresponding corrected images by professional photographers.
+This project uses the Adobe FiveK Dataset [Dataset Link](https://www.kaggle.com/datasets/ahmedmohmedbalta/mitabovefivek), which provides RAW images and corresponding corrected images by professional photographers.
 
 - 5000 RAW images → Input.
 
