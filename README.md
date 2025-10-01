@@ -1,5 +1,5 @@
 # 🔮 Image-Color-Enhancement
-This project implements deep learning models for automatic color correction of RAW images, aiming to enhance image quality by mapping unprocessed RAW inputs to professionally corrected outputs.
+This project implements **deep learning** models for automatic color correction of RAW images, aiming to enhance image quality by mapping unprocessed RAW inputs to professionally corrected outputs.
 
 # 🚀 Features
 
