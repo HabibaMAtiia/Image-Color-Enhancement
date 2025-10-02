@@ -56,3 +56,6 @@ This project uses the Adobe FiveK Dataset [Dataset Link](https://www.kaggle.com/
 - Experiment with GAN-based approaches (e.g., Pix2Pix, CycleGAN).
 - Build a simple **web app** using frameworks like Gradio.
 - Add evaluation metrics: PSNR, SSIM.
+
+# 👤 Author
+Developed by **Habiba Mohammad** (habibamohamad062@gmail.com).
