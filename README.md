@@ -1,4 +1,4 @@
-# 🔮 Image-Color-Enhancement
+# 🔮 Image-Color-Enhancement with U-Net and Attention U-Net
 This project implements **deep learning** models for automatic color correction of RAW images, aiming to enhance image quality by mapping unprocessed RAW inputs to professionally corrected outputs.
 
 # 🚀 Features
