@@ -49,7 +49,7 @@ This project uses the Adobe FiveK Dataset [Dataset Link](https://www.kaggle.com/
   pip install -r requirements.txt
 
 # 📥 Pretrained Model
-- You can download the trained model from Google Drive: [Download Model Weights](https://drive.google.com/your-model-link-here)
+- You can download the trained model from Google Drive: [Download Model Weights](https://drive.google.com/file/d/1Wzg0vm8FRT6IvcLYI6qNLZo8JD8jkasj/view?usp=sharing)
 
 # 📊 Example Result
 ![Alt Text](result/result.png)
