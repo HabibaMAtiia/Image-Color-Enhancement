@@ -58,4 +58,7 @@ This project uses the Adobe FiveK Dataset [Dataset Link](https://www.kaggle.com/
 - Add evaluation metrics: PSNR, SSIM.
 
 # 👤 Author
-Developed by **Habiba Mohammad** (habibamohamad062@gmail.com).
+Developed by **Habiba Mohammad**:
+📩 habibamohamad062@gmail.com
+
+
